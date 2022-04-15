@@ -1,3 +1,17 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v23.0.6...v) (2022-04-15)
+
+
+### Bug Fixes
+
+* **nsis:** cleanup temporary 7z folder ([#6793](https://github.com/electron-userland/electron-builder/issues/6793)) ([85a3e55](https://github.com/electron-userland/electron-builder/commit/85a3e5595e64346514dd7f5fade42e3632a18ee0))
+
+
+### Features
+
+* Use tar instead of 7zip to preserve file permissions in tar.gz packages ([#6791](https://github.com/electron-userland/electron-builder/issues/6791)) ([95910f8](https://github.com/electron-userland/electron-builder/commit/95910f87195f501eadda95c52cfa8e1816d211b6))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v23.0.4...v) (2022-04-13)
 
 
